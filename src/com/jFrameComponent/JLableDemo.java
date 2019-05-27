@@ -1,10 +1,9 @@
-package com.text1;
+package com.jFrameComponent;
 
 import javax.swing.*;
 import javax.swing.border.Border;
 import javax.swing.border.TitledBorder;
 import java.awt.*;
-import java.security.cert.CertificateParsingException;
 
 public class JLableDemo {
     JFrame jFrame = new JFrame("JLableDemo");

@@ -1,4 +1,4 @@
-package com.text1;
+package com.jFrameComponent;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

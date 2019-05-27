@@ -1,8 +1,7 @@
-package com.text1;
+package com.jFrameComponent;
 
 import java.util.Scanner;
-import java.awt.*;
-import javax.swing.*;
+
 public class JFrameDemo {
     public static void main(String[] args) {
 

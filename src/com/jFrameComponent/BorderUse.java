@@ -1,4 +1,4 @@
-package com.text1;
+package com.jFrameComponent;
 
 import javax.swing.*;
 import javax.swing.border.Border;

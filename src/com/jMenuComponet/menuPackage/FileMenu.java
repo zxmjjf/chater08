@@ -1,6 +1,7 @@
 package com.jMenuComponet.menuPackage;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.KeyEvent;
 
 public class FileMenu {
@@ -20,12 +21,14 @@ public class FileMenu {
     public void inNewMenu(){
         JMenu jMenu1 = new JMenu("New");//1>
         jMenu1.setMnemonic(KeyEvent.VK_N);
+        jMenu1.setToolTipText("Ctrl+N");
 
         JMenuItem jMenuItem = new JMenuItem("Project...."); //1_1)
         jMenu1.add(jMenuItem);
 
         jMenuItem = new JMenuItem("Project from Existing Source...");//1_2)
         jMenu1.add(jMenuItem);
+        jMenu1.setDoubleBuffered(false);
 
         JMenu jMenu2 = new JMenu("Project from Version Control.."); //1_3>
         jMenu1.add(jMenu2);

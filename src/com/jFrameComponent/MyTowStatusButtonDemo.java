@@ -11,7 +11,7 @@ public class MyTowStatusButtonDemo {
     Container contentPane = jFrame.getContentPane();
     FlowLayout flowLayout = new FlowLayout(FlowLayout.CENTER, 10, 0);
     JPanel jPanel1, jPanel2, jPanel3, jPanel4, jPanel5;
-    JCheckBox jCheckBox1, jCheckBox2, jCheckBox3, jCheckBox4, jCheckBox5, jCheckBox7;
+    JCheckBox jCheckBox1, jCheckBox2, jCheckBox3, jCheckBox4, jCheckBox5, jCheckBox6;
     JRadioButton jRadio1, jRadio2, jRadio3, jRadio4, jRadio5, jRadio6;
     JTextArea jTextArea = new JTextArea(0, 30);
 
@@ -36,15 +36,15 @@ public class MyTowStatusButtonDemo {
         //第二组：jCheckBox
         jCheckBox4 = new JCheckBox("JCheckBox 4");
         jCheckBox5 = new JCheckBox("JCheckBox 5");
-        jCheckBox7 = new JCheckBox("JCheckBox 6");
+        jCheckBox6 = new JCheckBox("JCheckBox 6");
         ButtonGroup group1 = new ButtonGroup();
-        group1.add(jCheckBox1);
-        group1.add(jCheckBox3);
-        group1.add(jCheckBox7);
+        group1.add(jCheckBox4);
+        group1.add(jCheckBox5);
+        group1.add(jCheckBox6);
         jPanel2 = new JPanel();
         jPanel2.add(jCheckBox4);
         jPanel2.add(jCheckBox5);
-        jPanel2.add(jCheckBox7);
+        jPanel2.add(jCheckBox6);
         jPanel2.setLayout(flowLayout);
         jPanel2.setBackground(Color.pink);
         border = BorderFactory.createTitledBorder(etched, "JCheckBox Group");
@@ -100,8 +100,8 @@ public class MyTowStatusButtonDemo {
                     jTextArea.append("You pressed \"JCheckBox 4\"   " + jCheckBox4.isSelected() + "\n");
                 }else if(jCheckBox == jCheckBox5){
                     jTextArea.append("You pressed \"JCheckBox 5\"   " + jCheckBox5.isSelected() + "\n");
-                }else if(jCheckBox == jCheckBox7){
-                    jTextArea.append("You pressed \"JCheckBox 6\"   " + jCheckBox7.isSelected() + "\n");
+                }else if(jCheckBox == jCheckBox6){
+                    jTextArea.append("You pressed \"JCheckBox 6\"   " + jCheckBox6.isSelected() + "\n");
                 }
             }
         };
@@ -110,7 +110,7 @@ public class MyTowStatusButtonDemo {
         jCheckBox3.addItemListener(il);
         jCheckBox4.addItemListener(il);
         jCheckBox5.addItemListener(il);
-        jCheckBox7.addItemListener(il);
+        jCheckBox6.addItemListener(il);
 
         ItemListener al = new ItemListener() {
             @Override

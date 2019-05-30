@@ -30,13 +30,13 @@ public class Changingwindow1 {
         createMenu2();
         createMenu3();
 
-        //showWindow2();
-        //showWindow1();
+        showWindow2();
+        showWindow1();
+
     }
     public void createMenu1(){
         JMenu jMenu = new JMenu("Window1");  //1>
         jMenu.setMnemonic(KeyEvent.VK_1);
-        jMenu.setBorderPainted(false);
 
         JMenuItem jMenuItem = new JMenuItem("Get in Window1");
         jMenuItem.setMnemonic(KeyEvent.VK_G);
@@ -45,9 +45,9 @@ public class Changingwindow1 {
             public void actionPerformed(ActionEvent e) {
                 //showWindow1();
                 System.out.println("点击Window1的选项");
-                //window1.setViseable(true);
-                //window2.setViseable(false);
-                showWindow1();
+                window1.setViseable(true);
+                window2.setViseable(false);
+                //showWindow1();
             }
         });
         jMenu.add(jMenuItem);
@@ -57,7 +57,6 @@ public class Changingwindow1 {
     public void createMenu2(){
         JMenu jMenu = new JMenu("Window2");  //1>
         jMenu.setMnemonic(KeyEvent.VK_2);
-        jMenu.setBorderPainted(false);
 
         JMenuItem jMenuItem = new JMenuItem("Get in Window2");
         jMenuItem.setMnemonic(KeyEvent.VK_G);
@@ -65,19 +64,20 @@ public class Changingwindow1 {
             @Override
             public void actionPerformed(ActionEvent e) {
                 //showWindow2();
-                //System.out.println("In Window 2");
+                System.out.println("In Window 2");
+
                 window2.setViseable(true);
                 window1.setViseable(false);
+
             }
         });
         jMenu.add(jMenuItem);
-
         jMenuBar.add(jMenu);
     }
+
     public void createMenu3(){
         JMenu jMenu = new JMenu("Window3");  //1>
         jMenu.setMnemonic(KeyEvent.VK_3);
-        jMenu.setBorderPainted(false);
 
         JMenuItem jMenuItem = new JMenuItem("Get in Window3");
         jMenuItem.setMnemonic(KeyEvent.VK_G);
@@ -89,7 +89,6 @@ public class Changingwindow1 {
             }
         });
         jMenu.add(jMenuItem);
-
         jMenuBar.add(jMenu);
     }
     public void showWindow1(){

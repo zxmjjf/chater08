@@ -51,7 +51,6 @@ public class FileMenu {
         JMenu jMenu = new JMenu("Open Recent"); // 1>
         jMenu.setMnemonic(KeyEvent.VK_R);
 
-
         this.jMenu.add(jMenu);
     }
     public void inClossProjectMenu(){
@@ -62,7 +61,7 @@ public class FileMenu {
     }
     public void inSettingMenu(){
         JMenuItem jMenuItem = new JMenuItem("Setting...."); // 1)
-        jMenu.setMnemonic(KeyEvent.VK_S);
+        jMenuItem.setMnemonic(KeyEvent.VK_S);
 
         jMenu.add(jMenuItem);
     }

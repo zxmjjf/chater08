@@ -44,7 +44,6 @@ public class Window1 {
         jPanel3.setBorder(border);
         ((TitledBorder) border).setTitleColor(Color.BLUE);
 
-        this.jPanel.setVisible(false);
         this.jPanel.add(jPanel, BorderLayout.CENTER);
     }
 

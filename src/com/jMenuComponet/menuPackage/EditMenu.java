@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.event.KeyEvent;
 
 public class EditMenu {
-    JMenu jMenu = new JMenu("Edit");
+    private JMenu jMenu = new JMenu("Edit");
     public EditMenu(){
         jMenu.setMnemonic(KeyEvent.VK_E);
     }

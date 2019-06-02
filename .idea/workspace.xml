@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4515039-9432-488d-990a-2d1baaee79d5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/layoutPackage/JTabPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/layoutPackage/MyCardLayout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/layoutPackage/NoLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timerUsage/TimeUsageText1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/changingWindow/Changingwindow1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter08/com/changingWindow/Changingwindow1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/changingWindow/Changingwindow1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter08/com/changingWindow/Changingwindow1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/changingWindow/Changingwindow1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter08/com/changingWindow/Changingwindow1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/changingWindow/Window1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter08/com/changingWindow/Window1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/changingWindow/Window2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter08/com/changingWindow/Window2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/jFrameComponent/JFrameDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/jFrameComponent/MyTowStatusButtonDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter08/com/jFrameComponent/MyTowStatusButtonDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/jFrameComponent/MyTowStatusButtonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter08/com/jFrameComponent/MyTowStatusButtonDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/jMenuComponet/menuPackage/EditMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter08/com/jMenuComponet/menuPackage/EditMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/jMenuComponet/menuPackage/FileMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter08/com/jMenuComponet/menuPackage/FileMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/changingWindow/Changingwindow1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/changingWindow/Changingwindow1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/changingWindow/Window1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/changingWindow/Window1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/changingWindow/Window2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/changingWindow/Window2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jFrameComponent/JFrameDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jFrameComponent/MyTowStatusButtonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jFrameComponent/MyTowStatusButtonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jMenuComponet/menuPackage/EditMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jMenuComponet/menuPackage/EditMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jMenuComponet/menuPackage/FileMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jMenuComponet/menuPackage/FileMenu.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,16 +14,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="NoLayout.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/layoutPackage/NoLayout.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="203">
-              <caret line="43" column="47" lean-forward="true" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+              <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1006#1181#0" expanded="true" />
-                <element signature="e#1180#1181#0" expanded="true" />
+                <element signature="e#1703#2101#0" expanded="true" />
+                <element signature="e#2100#2101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TimeUsageText1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/timerUsage/TimeUsageText1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#455#1029#0" expanded="true" />
+                <element signature="e#733#994#0" expanded="true" />
+                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#1028#1029#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,6 +91,8 @@
         <option value="$PROJECT_DIR$/src/com/layoutPackage/JTabPanel.java" />
         <option value="$PROJECT_DIR$/src/com/layoutPackage/MyCardLayout.java" />
         <option value="$PROJECT_DIR$/src/com/layoutPackage/NoLayout.java" />
+        <option value="$PROJECT_DIR$/src/com/timerUsage/timeUsageText1.java" />
+        <option value="$PROJECT_DIR$/src/com/timerUsage/TimeUsageText1.java" />
       </list>
     </option>
   </component>
@@ -103,7 +102,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="420" />
     <option name="y" value="140" />
     <option name="width" value="1195" />
@@ -117,9 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,12 +139,15 @@
               <item name="chapter08" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="layoutPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="timerUsage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NoLayout">
+  <component name="RunManager" selected="Application.TimeUsageText1">
     <configuration name="Changingwindow1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.changingWindow.Changingwindow1" />
       <module name="chapter08" />
@@ -184,17 +183,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.changingWindow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="JMenuCompotent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jMenuComponet.JMenuCompotent" />
-      <module name="chapter08" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jMenuComponet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,6 +216,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.layoutPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TimeUsageText1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.timerUsage.TimeUsageText1" />
+      <module name="chapter08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.timerUsage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,19 +273,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.JMenuCompotent" />
       <item itemvalue="Application.Changingwindow1" />
       <item itemvalue="Application.JTabPanel" />
       <item itemvalue="Application.MyCardLayout" />
       <item itemvalue="Application.NoLayout" />
+      <item itemvalue="Application.TimeUsageText1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TimeUsageText1" />
         <item itemvalue="Application.NoLayout" />
         <item itemvalue="Application.MyCardLayout" />
         <item itemvalue="Application.JTabPanel" />
         <item itemvalue="Application.Changingwindow1" />
-        <item itemvalue="Application.JMenuCompotent" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +303,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -315,12 +314,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5013405" side_tool="true" weight="0.15549216" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.49865952" visible="true" weight="0.25392297" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.49865952" visible="true" weight="0.12410842" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32952926" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4981884" visible="true" weight="0.1541555" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4981884" visible="true" weight="0.15616623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -337,29 +336,29 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3281027" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49865952" visible="true" weight="0.2125535" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32905984" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1541555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3281027" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32952926" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5013405" side_tool="true" weight="0.15549216" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49932975" weight="0.3281027" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.3297587" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -382,14 +381,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.desktop/java/awt/event/WindowAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="66" column="47" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/text1/Layout.java" />
     <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -518,10 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="106" column="7" lean-forward="true" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
-          <folding>
-            <element signature="e#6148#6149#0" expanded="true" />
-            <element signature="e#6189#6190#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -598,9 +585,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jFrameComponent/JFrameDemo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jFrameComponent/JFrameDemo.java" />
     <entry file="file://$PROJECT_DIR$/src/com/jFrameComponent/MyTowStatusButtonDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-784">
@@ -636,10 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#inUndoTypingMenu#0;class#EditMenu#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -657,11 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,14 +735,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="555" selection-start-line="555" selection-end-line="555" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timerUsage/TimeUsageText1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#455#1029#0" expanded="true" />
+            <element signature="e#733#994#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1028#1029#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/layoutPackage/NoLayout.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
-          <caret line="43" column="47" lean-forward="true" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1006#1181#0" expanded="true" />
-            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1703#2101#0" expanded="true" />
+            <element signature="e#2100#2101#0" expanded="true" />
           </folding>
         </state>
       </provider>
